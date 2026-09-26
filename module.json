@@ -3,7 +3,7 @@
   "title": "ToA AF68 - Caverns of Shennog",
   "version": "1.0.0",
   "manifest": "https://github.com/rgwynnjr/toa-af68-caverns-of-shennog/releases/latest/download/module.json",
-  "download": "https://github.com/rgwynnjr/toa-af68-caverns-of-shennog/releases/download/1.0.0/module.zip",
+  "download": "https://github.com/rgwynnjr/toa-af68-caverns-of-shennog/releases/download/1.0.0/toa-af68-caverns-of-shennog.zip",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
