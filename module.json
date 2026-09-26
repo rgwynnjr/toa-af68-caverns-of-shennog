@@ -1,0 +1,48 @@
+{
+  "id": "toa-af68-caverns-of-shennog",
+  "title": "ToA AF68 - Caverns of Shennog",
+  "version": "1.0.0",
+  "manifest": "https://github.com/rgwynnjr/toa-af68-caverns-of-shennog/releases/latest/download/module.json",
+  "download": "https://github.com/rgwynnjr/toa-af68-caverns-of-shennog/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>OVERVIEW</p><p>Caverns of Shennog is an adventure site you can place anywhere in forest terrain; someplace not easily accessed by common folk unwilling to brave the wilds to reach it.</p><p>In summary the cave complex is a series of natural caverns that conceal two hidden shrines to the goddess Shennog (built during the Second Age as bolt holes for priests to evade the skorn horde, but forgotten in later centuries). The complex is cut through with multiple streams and pools, one of which now houses a gigantic aberration known as a Lashrey. The monster is worshipped by a small tribe of Ngora (cyclope mutants), and their High Priest Yazraak.</p><p>Yazraak is in fact a human sorcerer, albeit one horribly twisted by long dealings with the Veil. He is obsessed with resurrecting his “dead wives” (actually a delusion, as he never had any wives), and mistakenly believes that the Lashrey requires just a few more sacrifices to grant him the power he needs. As the PCs search the complex for lost relics, they might face these and other dangers of the caverns.</p>",
+  "authors": [
+    {
+      "name": "Steve Grod - Game and Adventure Designer",
+      "flags": {}
+    },
+    {
+      "name": "Ray Gwynn - Foundry Adventure Module Creator",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "caverns-of-shennog",
+      "label": "Caverns of Shennog",
+      "path": "packs/caverns-of-shennog",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "talesofargosa",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "talesofargosa",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
